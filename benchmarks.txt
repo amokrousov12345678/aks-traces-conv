@@ -1,0 +1,4 @@
+Время обработки 100 трасс. GPU - Nvidia 820M, CPU - Intel Pentium N3530, 4GB RAM
+CPU - 93 с.
+GPU double - 39 c.
+GPU float - 67 с.
